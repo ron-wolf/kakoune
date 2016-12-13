@@ -22,7 +22,7 @@ and should, as a side effect, be very efficient at editing text in general.
 Composability
 -------------
 
-Being limited in scope to code edition should not isolate Kakoune from it's
+Being limited in scope to code editing should not isolate Kakoune from it's
 environment. On the contrary, Kakoune is expected to run on an Unix-like
 system, along with a lot of text-based tools, and should make it easy to
 interact with these tools.
